@@ -1,0 +1,15 @@
+card_id,front,back,score,deck
+1,bonjour,hello,8,french
+2,oui,yes,4,french
+3,femme,woman,10,french
+4,lopital,hospital,8,french
+5,merci,thankyou,6,french
+6,fille,girl,10,french
+7,garcon,boy,4,french
+8,non,no,8,french
+9,amour,love,8,french
+10,francis,french,6,french
+11,jour,day,4,french
+12,homme,man,0,french
+13,chat,cat,10,french
+14,chien,dog,6,french
